@@ -13,7 +13,7 @@ def exam_calc_welcome():
     print("*                                             *")
     print("*            ITUCU Exam Calc                  *")
     print("*                                             *")
-    print("*********************************************** developed by Eyup Sucu")
+    print("*********************************************** developed by Eyup")
 exam_calc_welcome()
 
 def dataInputFunc():
